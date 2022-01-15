@@ -1,0 +1,23 @@
+.title {
+    font-size: 32px;
+    font-family: Arial;
+}
+
+.main {
+    margin: auto;
+    max-width: 800px;
+    display: flex;
+    flex-flow: column;
+    /*align-items: center;*/
+}
+
+#buttons {
+    display: flex;
+}
+
+button {
+    padding: 5px;
+    margin: 5px;
+    font-size: 18px;
+    background-color: coral;
+}
